@@ -2,8 +2,8 @@
   "pageTitle": "Daniel Oliveros Guerra | Software Developer",
   "name": "Daniel Oliveros Guerra",
   "themeColor": "",
-  "location": "Software Developer",
-  "biography": "Daniel was born in South America, Colombia. He moved to the United States in 2015 pursuing higher education. Currently in the path to graduate in the Fall of 2020, he is looking to develop software that can provide both accommodations and entertainment to the people, regardless of their economical status.",
+  "location": "Software Engineer",
+  "biography": "Daniel was born in South America, Colombia. He moved to the United States in 2015 pursuing higher education. Graduated from the University of Missouri - Kansas City in December 2020 with a Bachelor's in Computer Science, and is currently working as a Software Engineer at Cerner Corporation. He is looking to develop software that can provide both accommodations and entertainment to the people, regardless of their economical status.",
   "socialLinks": [
     {
       "name": "Github",
@@ -11,14 +11,9 @@
       "link": "https://github.com/don-cpp"
     },
     {
-      "name": "CodePen",
-      "icon": "fa-codepen",
-      "link": "https://codepen.io/don-cpp"
-    },
-    {
       "name": "LinkedIn",
       "icon": "fa-linkedin",
-      "link": "https://www.linkedin.com/in/daniel-o-159a87104/"
+      "link": "https://www.linkedin.com/in/djo446/"
     }
   ]
 }
